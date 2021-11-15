@@ -1,0 +1,19 @@
+.categories {
+  align-items: baseline;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.categories-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.category-item {
+  align-content: initial;
+  background-color: inherit;
+  border: none;
+  font-size: medium;
+  margin: 5px 0;
+}
